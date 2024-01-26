@@ -1150,3 +1150,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-14.51.49:611][157]LogContentBrowser: Attempting asset rename: new_python_script -> test
 [2024.01.26-14.51.49:612][157]LogContentBrowser: End creating deferred item new_python_script
 [2024.01.26-14.53.04:002][757]LogDerivedDataCache: C:/Users/patk1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1531 files in 2365 folders with total size 66 MiB.
+[2024.01.26-15.00.06:715][831]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.01.26-15.00.06:719][831]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.01.26-15.01.45:035][590]LogAssetTools: Warning: Failed to import 'getting-started-python-ue-main\LearningPythonForUE\Content\Python\Workshops\ProceduralShapes\PlaceProceduralShapes.py'. Unknown extension 'py'.
+[2024.01.26-15.01.51:207][668]LogAssetTools: Warning: Failed to import 'getting-started-python-ue-main\LearningPythonForUE\Content\Python\Workshops\ProceduralShapes\PlaceProceduralShapes.py'. Unknown extension 'py'.
+[2024.01.26-15.02.35:763][848]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.26-15.02.52:309][561]LogContentBrowser: Deferred new asset file creation: new_python_script
+[2024.01.26-15.02.52:319][561]LogContentBrowser: Creating deferred item: new_python_script
+[2024.01.26-15.02.52:326][562]LogContentBrowser: Renaming the item being created (Deferred Item: new_python_script).
+[2024.01.26-15.04.15:928][595]LogContentBrowser: Attempting asset rename: new_python_script -> new_python_script
+[2024.01.26-15.04.15:928][595]LogContentBrowser: End creating deferred item new_python_script
+[2024.01.26-15.04.22:302][350]LogContentBrowser: Attempting asset rename: new_python_script -> import_unreal
+[2024.01.26-15.04.37:303][ 54]LogSlate: Window 'View Changes' being destroyed
+[2024.01.26-15.04.37:307][ 54]LogSlate: Window 'View Changes' being destroyed
+[2024.01.26-15.05.02:515][ 63]LogWindows: LaunchFileInExternalEditor C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/import_unreal.py 
+[2024.01.26-15.05.02:527][ 63]LogWindows: Launch application code for C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/import_unreal.py : 31
+[2024.01.26-15.12.30:309][439]LogWindows: LaunchFileInExternalEditor C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/import_unreal.py 
+[2024.01.26-15.12.30:316][439]LogWindows: Launch application code for C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/import_unreal.py : 31
+[2024.01.26-15.16.09:553][931]LogContentBrowser: Deferred new asset file creation: new_python_script
+[2024.01.26-15.16.09:565][931]LogContentBrowser: Creating deferred item: new_python_script
+[2024.01.26-15.16.09:601][933]LogContentBrowser: Renaming the item being created (Deferred Item: new_python_script).
+[2024.01.26-15.16.14:301][493]LogContentBrowser: Attempting asset rename: new_python_script -> test_Import
+[2024.01.26-15.16.14:302][493]LogContentBrowser: End creating deferred item new_python_script
+[2024.01.26-15.16.16:682][778]LogWindows: LaunchFileInExternalEditor C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/test_Import.py 
+[2024.01.26-15.16.16:689][778]LogWindows: Launch application code for C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/test_Import.py : 31
+[2024.01.26-15.17.59:342][665]LogPython: Hello
