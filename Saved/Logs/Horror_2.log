@@ -1175,3 +1175,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-15.16.16:682][778]LogWindows: LaunchFileInExternalEditor C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/test_Import.py 
 [2024.01.26-15.16.16:689][778]LogWindows: Launch application code for C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/test_Import.py : 31
 [2024.01.26-15.17.59:342][665]LogPython: Hello
+[2024.01.26-15.19.15:651][709]LogWindows: LaunchFileInExternalEditor C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/import_unreal.py 
+[2024.01.26-15.19.15:658][709]LogWindows: Launch application code for C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Python/import_unreal.py : 31
+[2024.01.26-15.27.27:500][191]LogAssetTools: Warning: Failed to import 'C:\Users\patk1\Downloads\getting-started-python-ue-main\getting-started-python-ue-main\LearningPythonForUE\Content\Python\Help\Unreal\show_dialog.py'. Unknown extension 'py'.
+[2024.01.26-15.27.50:166][375]LogAssetTools: Warning: Failed to import 'C:\Users\patk1\Downloads\getting-started-python-ue-main\getting-started-python-ue-main\LearningPythonForUE\Content\Python\Help\Unreal\show_dialog.py'. Unknown extension 'py'.
