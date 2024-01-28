@@ -4,7 +4,9 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/patk1/OneDrive/Desktop/Git Hub/Game/Content/Sprites/x16Test_Character.uasset"
+			]
 		}
 	]
 }
